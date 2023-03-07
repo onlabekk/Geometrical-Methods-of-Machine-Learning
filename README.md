@@ -1,1 +1,1 @@
-# Geometrical-Methods-of-Machine-Learning
+# Geometrical Methods of Machine Learning
